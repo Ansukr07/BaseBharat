@@ -18,5 +18,5 @@ Animations: AOS (Animate On Scroll) library for smooth scroll animations
 
 Fonts: Orbitron (for futuristic text style)
 
-Hosting: Can be deployed on platforms like GitHub Pages, Vercel, or Netlify.
+Hosting: Deployed on Netlify.
 
